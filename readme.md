@@ -14,3 +14,9 @@ This challenge solution uses the following frameworks:
 4. $ composer install
 5. $ php artisan  serve --host [IP where you are installing]
 6. Open a browser to url: http://IP:8000/
+
+Or to run from command line
+
+ $ php challenge_cmd.php
+ 
+ 

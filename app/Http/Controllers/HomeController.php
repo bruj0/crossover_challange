@@ -11,7 +11,7 @@ class HomeController extends Controller
     /**
      * Display the input form 
      *
-     * @return 
+     * @return html
      */
     public function index()
     {
