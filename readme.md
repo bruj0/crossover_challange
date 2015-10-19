@@ -1,4 +1,4 @@
-## Crossover Challenge for Rodrigo
+## Laravel fullstack demo
 
 This challenge solution uses the following frameworks:
 
@@ -9,8 +9,8 @@ This challenge solution uses the following frameworks:
 ### Installation
 
 1. $ curl -sS https://getcomposer.org/installer | php (or any form from https://getcomposer.org/doc/00-intro.md )
-2. $ git clone https://github.com/bruj0/crossover_challange.git
-3. $ cd crossover_challange/
+2. $ git clone https://github.com/bruj0/fullstack_demo.git
+3. $ cd fullstack_demo/
 4. $ composer install
 5. $ php artisan  serve --host [IP where you are installing]
 6. Open a browser to url: http://IP:8000/
